@@ -1,6 +1,7 @@
 # ConnectFour
 
-The classic game from the 80's, align 4 tokens of the same colour either vertically, horizontally, or diagonally to win!
+The classic game from the 80's.
+Align 4 tokens of the same colour either vertically, horizontally, or diagonally to win!
 
 Technologies used: Javascript | jQuery | HTML/CSS.
 
